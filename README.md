@@ -8,4 +8,4 @@ This proposal has been developed using VBA.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IVVExjg4HzE
 " target="_blank"><img src="http://img.youtube.com/vi/IVVExjg4HzE/0.jpg" 
-alt="YouTube video" width="500" height="300" border="10" /></a>
+alt="YouTube video" width="500" height="400" border="10" /></a>
